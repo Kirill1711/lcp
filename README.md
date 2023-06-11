@@ -1,1 +1,1 @@
-https://kirill1711.github.io/lcp/
+https://kirill1711.github.io/lcp
